@@ -1,0 +1,34 @@
+00, The Abomination, assets/abomination.png
+01, Angel of Death, assets/angel_of_death.png
+02, Araxxor, assets/araxxor.png
+03, Barrows, assets/barrows.png
+04, Beastmaster Durzag, assets/beastmaster_durzag.png
+05, Chaos Elemental, assets/chaos_elemental.png
+06, Commander Zilyana, assets/commander_zilyana.png
+07, Corporeal Beast, assets/corporeal_beast.png
+08, Dagannoth Kings, assets/dagannoth_kings.png
+09, Elite Dungeons, assets/elite_dungeons_1.png
+10, Elite Dungeons 2, assets/elite_dungeons_2.png
+11, Elite Dungeons 3, assets/elite_dungeons_3.png
+12, Exiled Kalphite Queen, assets/exiled_kalphite_queen.png
+13, Fight Kiln, assets/fight_kiln.png
+14, General Graardor, assets/general_graardor.png
+15, Giant Mole, assets/giant_mole.png
+16, Gregorovic, assets/gregorovic.png
+17, Helwyr, assets/helwyr.png
+18, Fight Caves, assets/jad.png
+19, Kalphite King, assets/kalphite_king.png
+20, Kalphite Queen, assets/kalphite_queen.png
+21, King Black Dragon, assets/king_black_dragon.png
+22, Kree'arra, assets/kree'arra.png
+23, K'ril Tsutsaroth, assets/k'ril_tsutsaroth.png
+24, Legiones, assets/legiones.png
+25, Nex, assets/nex.png
+26, Queen Black Dragon, assets/queen_black_dragon.png
+27, Solak, assets/solak.png
+28, Telos, assets/telos.png
+29, The Magister, assets/the_magister.png
+30, The Twin Furies, assets/twin_furies.png
+31, Vindicta & Gorvek, assets/vindicta.png
+32, Vorago, assets/vorago.png
+33, Yakamaru, assets/yakamaru.png
